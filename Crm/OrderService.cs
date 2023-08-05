@@ -16,7 +16,7 @@ public sealed class OrderService
     }   
 
     public Order GetOrder(string description, int id)
-    [
+{
         return orderList.FirstOrDefault(order => order.Description == description && order.Id == id);
-    ]
+}
 }
