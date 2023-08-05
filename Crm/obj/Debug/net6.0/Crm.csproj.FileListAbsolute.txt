@@ -1,0 +1,5 @@
+C:\Users\Admin\Downloads\cs-test-main\src\Crm\obj\Debug\net6.0\Crm.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\cs-test-main\src\Crm\obj\Debug\net6.0\Crm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\cs-test-main\src\Crm\obj\Debug\net6.0\Crm.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\cs-test-main\src\Crm\obj\Debug\net6.0\Crm.AssemblyInfo.cs
+C:\Users\Admin\Downloads\cs-test-main\src\Crm\obj\Debug\net6.0\Crm.csproj.CoreCompileInputs.cache
